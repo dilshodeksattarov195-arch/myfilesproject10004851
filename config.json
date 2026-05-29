@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvecrypt",
+        "uuid": 34020063,
+        "checksum": "gti6o"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
